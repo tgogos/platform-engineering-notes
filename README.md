@@ -9,5 +9,5 @@
 
 ## Ian Coldwater
 
-*"Platform engineering" is a response from people who heard **"devops is a culture, not a set of tools"** and instead of listening to why that's important **they attempted to take any kind of culture out of it and replace it with tools.** You cannot convince me otherwise*
+*"Platform engineering" is a response from people who heard **"devops is a culture, not a set of tools"** and instead of listening to why that's important **they attempted to take any kind of culture out of it and replace it with tools.** You cannot convince me otherwise*  
 [tweet](https://twitter.com/IanColdwater/status/1667582235271127047)
