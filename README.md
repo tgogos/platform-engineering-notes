@@ -19,3 +19,9 @@
 *⌞ Duct tape. It’s all held together with duct tape"*  
 *⌞ No, no, no. That was DevOps. You now need to engineer a better tape. Work with your app teams, understand how the duct tape was used and build a super tape that is tailored to your duct tape usage.*  
 [tweet](https://twitter.com/ibuildthecloud/status/1629350146134663169)
+
+
+## Sam Newman
+
+*The reality is, much of the effort around platform engineering is NOT about empowering developers, **it’s about hiding the towering pile of crap we’ve assembled and now have to hide from the people we apparently got it for in the first place**. It’s like buying a bunch of presents for a child, then having to hide them because they’re too dangerous for them to use, and in reality you really got them for yourself. Did your kid really need that compound hunting bow?*  
+[Sam's blogpost](https://samnewman.io/blog/2023/02/08/dont-call-it-a-platform/)
