@@ -24,4 +24,6 @@
 ## Sam Newman
 
 *The reality is, much of the effort around platform engineering is NOT about empowering developers, **it’s about hiding the towering pile of crap we’ve assembled and now have to hide from the people we apparently got it for in the first place**. It’s like buying a bunch of presents for a child, then having to hide them because they’re too dangerous for them to use, and in reality you really got them for yourself. Did your kid really need that compound hunting bow?*  
+
+*The vision for The Platform has gone from being a vision for a better experience for developers, where the platform exists to serve developers, and has instead come to serve the Kult Of Kubernetes, and it's worshipers.*  
 [Sam's blogpost](https://samnewman.io/blog/2023/02/08/dont-call-it-a-platform/)
